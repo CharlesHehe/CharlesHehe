@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CharlesHehe
 - 👀 I’m interested in Deeping Learning, Data Science, Search Engine and Recommendation System
-- 🌱 I’m currently looking for jobs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hechenjuner@gmail.com
 
